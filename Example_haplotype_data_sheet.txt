@@ -1,0 +1,99 @@
+Seq_ID	CDC1_Hap_1	CDC1_Hap_2	CDC1_Hap_3	CDC1_Hap_4	CDC2_Hap_1	CDC2_Hap_2	CDC2_Hap_3	CDC2_Hap_4	CDC3_Hap_1	CDC3_Hap_2	CDC3_Hap_3	CDC3_Hap_4	CDC4_Hap_1	CDC4_Hap_2	CDC4_Hap_3	CDC4_Hap_4	X378_PART_A_Hap_1	X378_PART_A_Hap_2	X378_PART_A_Hap_3	X378_PART_A_Hap_4	X378_PART_A_Hap_5	X378_PART_A_Hap_6	X378_PART_A_Hap_7	X378_PART_A_Hap_8	X378_PART_A_Hap_9	X378_PART_A_Hap_10	X378_PART_B_Hap_1	X378_PART_B_Hap_2	X378_PART_B_Hap_3	X378_PART_B_Hap_4	X378_PART_B_Hap_5	X378_PART_B_Hap_6	X378_PART_C_Hap_1	X378_PART_C_Hap_2	X378_PART_C_Hap_3	X378_PART_C_Hap_4	X378_PART_C_Hap_5	X378_PART_C_Hap_6	X378_PART_C_Hap_7	X378_PART_C_Hap_8	X360i2_PART_A_Hap_1	X360i2_PART_A_Hap_2	X360i2_PART_A_Hap_3	X360i2_PART_A_Hap_4	X360i2_PART_A_Hap_5	X360i2_PART_A_Hap_6	X360i2_PART_B_Hap_1	X360i2_PART_B_Hap_2	X360i2_PART_B_Hap_3	X360i2_PART_B_Hap_4	X360i2_PART_B_Hap_5	X360i2_PART_B_Hap_6	X360i2_PART_B_Hap_7	X360i2_PART_B_Hap_8	X360i2_PART_B_Hap_9	X360i2_PART_B_Hap_10	X360i2_PART_C_Hap_1	X360i2_PART_C_Hap_2	X360i2_PART_C_Hap_3	X360i2_PART_C_Hap_4	X360i2_PART_C_Hap_5	X360i2_PART_C_Hap_6	X360i2_PART_C_Hap_7	X360i2_PART_C_Hap_8	X360i2_PART_D_Hap_1	X360i2_PART_D_Hap_2	X360i2_PART_D_Hap_3	X360i2_PART_D_Hap_4	X360i2_PART_D_Hap_5	X360i2_PART_D_Hap_6	Junction_Hap_1	Junction_Hap_2	Junction_Hap_3	Junction_Hap_4	Junction_Hap_5	Junction_Hap_6	Junction_Hap_7	Junction_Hap_8	Junction_Hap_9	Junction_Hap_10	Junction_Hap_11	Junction_Hap_12	Junction_Hap_13	Junction_Hap_14	Junction_Hap_15	Junction_Hap_16	Junction_Hap_17	Junction_Hap_18	Junction_Hap_19	Junction_Hap_20	Junction_Hap_21	Junction_Hap_22	Junction_Hap_23	Junction_Hap_24	MSR_Left_Hap_1	MSR_Left_Hap_2	MSR_Left_Hap_3	MSR_Left_Hap_4	MSR_Left_Hap_5	MSR_Left_Hap_6	MSR_Left_Hap_7	MSR_Left_Hap_8	MSR_Right_Hap_1	MSR_Right_Hap_2	MSR_Right_Hap_3	MSR_Right_Hap_4	MSR_Right_Hap_5	MSR_Right_Hap_6	MSR_Right_Hap_7	MSR_Right_Hap_8
+C_CA003_18	X				X					X			X					X		X								X					X	X	X							X						X	X	X									X	X						X																X														X							X							
+C_IA004_18						X			X												X	X						X							X						X						X										X	X							X								X																						X									X						
+C_IA005_18					X					X									X	X							X	X					X		X							X						X	X	X									X	X						X							X																						X									X						
+C_IA006_18					X					X				X																												X						X											X							X							X																						X									X						
+C_IA007_18					X				X									X		X								X					X	X	X						X						X										X	X							X													X																	X								X							
+C_IA008_18						X				X									X	X							X	X					X		X							X						X	X	X									X	X						X							X																						X									X						
+C_IA010_18																																																																									X																						X									X						
+C_IA011_18					X					X									X	X							X	X					X		X							X							X											X						X							X																						X									X						
+C_IA009_18		X				X				X				X					X	X							X	X					X		X							X						X	X	X									X	X						X																													X									X						
+C_IA014_18					X					X									X	X							X	X					X		X							X							X											X						X							X																						X								X	X						
+C_IA013_18					X				X									X		X								X					X	X	X						X						X										X	X							X													X																	X								X							
+C_IA012_18																																																																									X																						X									X						
+C_IA015_18																																																																									X																						X									X						
+C_IA016_18		X				X				X				X					X	X							X	X					X		X							X						X	X	X									X	X						X							X																						X									X						
+C_IA018_18	X				X				X									X		X								X					X	X	X						X						X										X	X							X													X																	X								X							
+C_IA017_18		X			X					X				X					X									X						X		X						X						X	X	X	X								X	X						X													X																		X							X						
+C_IA019_18						X				X									X								X								X																																						X																						X									X						
+C_IA020_18					X														X								X								X							X							X											X						X							X																						X									X						
+C_IA021_18																																																																																																	X							X						
+C_IA022_18																																																																																																X							X							
+C_IA023_18		X																									X																																														X																						X									X						
+C_IA055_18					X				X											X								X					X								X						X										X	X							X													X																		X							X							
+C_IA027_18										X																																X							X											X						X							X																						X									X						
+C_IA025_18					X																																				X						X										X								X																						X								X								X							
+C_IA026_18																																																																																							X								X															
+C_IA028_18																																										X							X											X						X							X					X																	X									X						
+C_IA057_18		X												X																																																																									X								X								X							
+C_IA024_18									X										X	X							X	X					X		X						X						X										X	X							X									X																							X							X						
+C_IA029_18									X											X								X					X																																													X																	X								X							
+C_IA058_18		X			X				X					X						X			X					X					X	X	X						X						X										X	X							X																														X								X							
+C_IA059_18	X				X				X				X																												X						X										X								X													X																	X								X							
+C_IA050_18		X			X				X					X						X			X					X					X	X	X						X						X										X	X							X																														X								X							
+C_IA051_18	X				X				X				X	X									X					X						X							X						X										X	X							X													X									X								X								X							
+C_IA052_18		X			X				X					X						X			X					X					X	X	X						X						X										X	X							X																						X								X								X							
+C_IA053_18									X					X																																																																																	X								X							
+C_IA054_18		X				X			X					X								X						X							X						X						X										X	X							X						X		X																						X									X						
+C_IA040_18		X			X				X					X						X			X					X					X	X	X						X						X										X	X							X																						X								X								X							
+C_IA041_18																				X								X					X								X						X										X								X																														X								X							
+C_IA042_18	X				X				X				X					X		X								X					X	X	X												X										X	X							X													X																	X								X							
+C_IA043_18					X				X														X					X						X																																												X																	X								X							
+C_IA044_18		X			X				X					X						X			X					X					X	X	X						X						X										X	X							X																						X								X								X							
+C_IA030_18		X							X											X			X					X					X	X	X						X						X										X	X							X																														X								X							
+C_IA031_18					X															X			X					X					X	X							X						X										X								X																						X								X								X							
+C_IA033_18		X																																																																																					X																							
+C_IA034_18		X			X				X											X			X					X					X	X	X						X						X										X	X							X																						X								X								X							
+C_IA035_18		X			X				X											X			X					X					X	X	X						X						X										X	X							X																						X								X								X							
+C_IA036_18		X			X				X											X			X					X					X	X	X						X						X										X	X							X																						X								X								X							
+C_IA037_18																							X					X						X																																																													X								X							
+C_IA038_18		X							X				X					X		X			X					X					X	X	X						X						X										X	X							X													X																	X								X							
+C_IA039_18					X				X					X						X			X					X					X	X	X						X						X										X	X							X																						X								X								X							
+C_IA045_18									X					X						X			X					X					X	X	X						X						X										X	X							X																														X								X							
+C_IA046_18		X				X			X					X								X						X													X						X										X	X							X						X		X																						X									X						
+C_IA047_18		X			X				X											X								X					X								X						X										X	X							X													X																		X							X							
+C_IA048_18					X				X											X			X					X					X	X	X						X						X										X	X							X																						X								X								X							
+C_IA063_18		X			X				X					X						X								X					X	X							X						X										X	X							X																						X								X								X							
+C_IA049_18		X							X					X						X								X					X																																																						X								X	X							X							
+C_IA061_18																																																																																		X													X									X						
+C_IA071_18																																																																																							X								X								X							
+C_IA068_18		X			X				X					X						X			X					X					X	X	X						X						X										X	X							X																						X								X								X							
+C_IA069_18		X			X				X					X						X			X					X					X	X	X						X						X										X	X							X																						X								X								X							
+C_IA070_18		X			X				X					X						X			X					X					X	X	X						X						X										X	X							X																						X								X								X							
+C_IA078_18					X				X					X						X			X					X					X	X	X						X						X										X	X							X																														X								X							
+C_IA065_18		X			X				X				X								X	X						X							X						X						X										X	X							X																	X													X								X							
+C_IA066_18		X				X								X							X							X							X						X						X										X	X							X								X																						X									X						
+C_IA076_18					X				X											X								X					X								X						X										X	X							X																						X								X								X							
+C_IA077_18		X			X				X					X						X			X					X					X	X	X						X						X										X	X							X																														X								X							
+C_IA075_18		X			X				X					X						X			X					X					X	X	X						X						X										X	X							X																						X								X								X							
+C_IA062_18		X			X				X					X									X					X						X							X						X										X	X							X																						X								X								X							
+C_IA081_18																																																																																							X																							
+C_IA082_18		X			X				X											X			X					X					X	X							X						X										X	X							X																														X								X							
+C_IA084_18		X												X							X							X													X						X											X							X								X																						X									X						
+C_IA083_18		X			X				X					X						X			X					X					X	X							X						X										X	X							X																														X								X							
+C_IA072_18																																																																																							X								X								X							
+C_IA074_18																																																																																							X								X								X							
+C_IA073_18																																																																																							X																							
+C_IA067_18						X																																																																			X																						X									X						
+C_IA080_18																		X										X					X								X						X										X	X							X																		X												X									X						
+C_IA086_18					X															X			X					X					X	X	X						X						X										X	X							X																						X								X								X							
+C_IA064_18		X			X				X					X						X			X					X					X	X	X						X						X										X	X							X																						X								X								X							
+C_IA079_18																																																																																							X								X								X							
+C_IA085_18					X				X											X			X					X					X	X							X						X										X	X							X																						X								X								X							
+C_IA087_18		X			X				X											X			X					X					X	X	X						X						X										X	X							X																						X								X								X							
+C_IA092_18		X			X				X					X						X			X					X					X	X	X						X						X										X	X							X																						X								X								X							
+C_IA091_18		X			X				X					X						X			X					X					X	X	X						X						X										X	X							X																						X								X								X							
+C_IA089_18																																																																														X																	X								X							
+C_IA090_18		X				X			X					X							X	X						X							X						X						X										X	X							X								X																						X									X						
+C_IA060_18					X				X					X																											X						X										X	X							X																														X								X							
+C_IA096_18																																																																																							X																							
+C_IA088_18																																									X						X										X								X																						X								X								X							
+C_IA101_18																																																																									X																						X															
+C_IA099_18		X			X				X											X			X					X					X	X							X						X										X	X							X																						X								X								X							
+C_IA122_18																																																																																							X																							
+C_IA120_18																																																																																							X																							
+C_IA121_18																				X								X						X							X						X										X	X							X																														X								X							
+C_IA123_18																																																																																							X								X															
+C_IA118_18																																																																																							X								X															
+C_IA124_18																																																																																							X								X															
+C_IA104_18		X			X				X					X						X			X					X					X	X	X						X						X										X	X							X																						X								X								X							
